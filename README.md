@@ -2,7 +2,6 @@
 
 ## Installation
 - `npm i node-replit-uptimer`
-- `npm i k4itrun/node-replit-uptimer`
 - `yarn add node-replit-uptimer`
 - `pnpm add node-replit-uptimer`
   
