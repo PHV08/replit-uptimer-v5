@@ -22,3 +22,5 @@ console.log(`${colors.green.bold(`:: server :: ${name} => online`)}`);
 module.exports = {
  config // => Soon more...
 };
+
+//configure all the data
